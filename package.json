@@ -1,0 +1,23 @@
+{
+  "name": "platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bombik815/platforms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bombik815/platforms/issues"
+  },
+  "homepage": "https://github.com/bombik815/platforms#readme",
+  "dependencies": {
+    "@bombik815/ajs": "^1.0.0"
+  }
+}
